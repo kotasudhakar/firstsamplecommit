@@ -1,0 +1,2 @@
+just a small file, can be ignored from committing
+added to the .gitignore
